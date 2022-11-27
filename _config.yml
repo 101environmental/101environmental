@@ -1,8 +1,8 @@
 # Site settings
-title: 101 Environmental Falconry Services
+title: 101 Environmental
 email: info@101environmental.com
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/" # the subpath of your site, e.g. /blog/
+description: Falconry and pest control in Gloucestershire, Wiltshire and South Wales
+baseurl: "/"
 url: "http://www.101environmental.com" # the base hostname & protocol for your site
 
 instagram_username: 101environmental
